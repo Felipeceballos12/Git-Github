@@ -43,7 +43,10 @@ header {
 }
 
 .main-container {
-  height: 100%;
+  display: grid;
+  place-content: center;
+
+  height: 100vh;
 }
 
 article {
@@ -72,4 +75,10 @@ h6 {
 
 .list-info li:last-child {
   margin-bottom: 0;
+}
+
+footer {
+  padding: 2rem 1rem;
+
+  background-color: darkgray;
 }
