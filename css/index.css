@@ -42,7 +42,6 @@ header {
   transition: 0.2s;
 }
 
-<<<<<<< HEAD
 article {
   max-width: 18rem;
   margin: 2rem auto 0;
@@ -69,19 +68,4 @@ h6 {
 
 .list-info li:last-child {
   margin-bottom: 0;
-=======
-main {
-  display: grid;
-  place-content: center;
-
-  height: 100vh;
-}
-
-footer {
-  background-color: darkgrey;
-  padding: 2rem 1rem;
-
-  font-family: monospace;
-  font-weight: 600;
->>>>>>> cabecera
 }
