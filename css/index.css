@@ -42,6 +42,13 @@ header {
   transition: 0.2s;
 }
 
+.main-container {
+  display: grid;
+  place-content: center;
+
+  height: 100vh;
+}
+
 article {
   max-width: 18rem;
   margin: 2rem auto 0;
@@ -68,4 +75,10 @@ h6 {
 
 .list-info li:last-child {
   margin-bottom: 0;
+}
+
+footer {
+  padding: 2rem 1rem;
+
+  background-color: darkgray;
 }
