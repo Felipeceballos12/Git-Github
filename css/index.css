@@ -40,3 +40,18 @@ header {
   color: crimson;
   transition: 0.2s;
 }
+
+main {
+  display: grid;
+  place-content: center;
+
+  height: 100vh;
+}
+
+footer {
+  background-color: darkgrey;
+  padding: 2rem 1rem;
+
+  font-family: monospace;
+  font-weight: 600;
+}
