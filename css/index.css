@@ -40,3 +40,31 @@ header {
   color: crimson;
   transition: 0.2s;
 }
+
+article {
+  max-width: 18rem;
+  margin: 2rem auto 0;
+  padding: 1rem;
+
+  border: 1px solid #000;
+  border-radius: 0.7rem;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+h6 {
+  margin-bottom: 2rem;
+  font-size: 1rem;
+}
+
+.list-info {
+  text-align: left;
+  padding-left: 1rem;
+}
+
+.list-info li {
+  margin-bottom: 0.5rem;
+}
+
+.list-info li:last-child {
+  margin-bottom: 0;
+}
