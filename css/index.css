@@ -1,4 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
-  text-align: center;
   font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+header {
+  background-color: bisque;
+  margin-bottom: 3rem;
+}
+
+.nav-bar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.navbar-links {
+  margin: 1rem 0;
+}
+
+.navbar-links li {
+  display: inline-block;
+  list-style: none;
+  margin-right: 1rem;
+}
+
+.navbar-link {
+  text-decoration: none;
+  color: black;
+  transition: 0.2s;
+}
+
+.navbar-link:hover {
+  color: crimson;
+  transition: 0.2s;
 }
