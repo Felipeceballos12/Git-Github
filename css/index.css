@@ -18,7 +18,8 @@ header {
 .nav-bar {
   display: flex;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: space-between;
+  margin-left: 1rem;
 }
 
 .navbar-links {
