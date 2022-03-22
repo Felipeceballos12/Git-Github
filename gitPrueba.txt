@@ -1,3 +1,7 @@
 Hola soy Felipe Ceballos Caicedo y estoy buscando empleo como programador web.
 
-Prueba
+He cometido un error y quiero resolverlo, entonces voy a crear una nueva rama llamada "fixbugs"
+y despues voy a usar "rebase" para cortar el historial de mi rama "fixbugs" y pegarla en mi rama "MAIN".
+
+Esto es una mala practica si lo hacemos en nuestro repositorio remoto, se recomienda siempre hacerlo
+en el repositorio Local.
