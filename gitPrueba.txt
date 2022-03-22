@@ -6,8 +6,8 @@ y despues voy a usar "rebase" para cortar el historial de mi rama "fixbugs" y pe
 Esto es una mala practica si lo hacemos en nuestro repositorio remoto, se recomienda siempre hacerlo
 en el repositorio Local.
 
-<<<<<<< HEAD
 - Soy un comentario que nace despues de haber echo "git rebase main" en la rama fixbugs
-=======
-FIXBUGS-1
->>>>>>> 6d7d488 (fix bug en el text)
+
+fix bug en el text
+
+fix bug 2 en el text
