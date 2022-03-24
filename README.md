@@ -2,7 +2,7 @@
 
 Repositorio para aprender sobre Git y GitHub con Platzi
 
-Este repositorio contien muchos comandos y en la lista de abajo los podras ver todos:
+Este repositorio contiene muchos comandos y en la lista de abajo los podras ver todos:
 
 - `git init`
 - `git status`
