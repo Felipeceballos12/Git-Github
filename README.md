@@ -7,7 +7,7 @@ Este repositorio contiene muchos comandos y en la lista de abajo los podras ver 
 - `git init`
 - `git status`
 - `git add .` o `git add Nombre-del-archivo`
-- `git commit -m "Breve descripción sobre que haz echo"` o `git commit -am "Breve descripción sobre que haz echo"` → este comando solo funciona no funciona con archivo que no hayan sido rastreados anteriormente.
+- `git commit -m "Breve descripción sobre que haz echo"` o `git commit -am "Breve descripción sobre que haz echo"` → este comando no funciona con archivo que no hayan sido rastreados anteriormente.
 - `git pull origin nombre-de-la-rama`
 - `git push origin nombre-de-la-rama`
 - `git branch`
